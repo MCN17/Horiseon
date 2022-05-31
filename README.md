@@ -7,6 +7,7 @@ To make the Horiseon Website more accessible and to refactor the code in way tha
 https://mcn17.github.io/Horiseon/
 
 
-"C:\Users\Marty\Desktop\Module 1 Challenge\horiseon-screenshot.png"
+![horiseon-screenshot](https://user-images.githubusercontent.com/104735194/171298009-b69940b6-bc44-4ddf-90da-434f04d11b07.png)
+
 
 
